@@ -6,7 +6,7 @@
 
 This is the official repository for my personal portfolio website, built from the ground up to showcase my skills in System Administration, Full-Stack Development, and modern web technologies.
 
-### [➡️ View Live Demo](https:/mt-abdulla/.github.io/abdullah-dev/)
+### [➡️ View Live Demo](https://mt-abdullah.github.io/abdullah-dev/)
 
 
 
